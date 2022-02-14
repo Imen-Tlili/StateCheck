@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.profil{
+
+  text-align:center;
+  background-color: rosybrown;
+}
+
+.img{
+  border-radius: 50%;
+}
+.main{
+  text-align:center;
+  color:rgb(128, 0, 17);
+  justify-content: center;
+}
